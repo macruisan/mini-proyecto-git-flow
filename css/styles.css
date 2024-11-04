@@ -1,0 +1,87 @@
+body {
+  background-color: #f5f5dc;
+  /* Beige claro */
+  color: #4b3832;
+  /* Marrón oscuro */
+}
+
+.navbar {
+  background-color: #8c5a48;
+  /* Marrón cálido */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #d9c4b1 !important;
+  /* Beige claro para efecto hover */
+}
+
+.hero-section {
+  background-color: #a68a64;
+  /* Marrón arena */
+  color: #f5f5dc;
+  /* Texto en beige claro */
+}
+
+.btn-light {
+  background-color: #d9c4b1;
+  /* Beige */
+  color: #4b3832;
+  border: none;
+}
+
+.btn-light:hover {
+  background-color: #c1a98d;
+  /* Beige oscuro */
+  color: #4b3832;
+}
+
+.card {
+  background-color: #f5f5dc;
+  /* Fondo de las tarjetas en beige claro */
+  border: none;
+}
+
+.card-title {
+  color: #8c5a48;
+  /* Marrón cálido */
+}
+
+.contact-section {
+  background-color: #d9c4b1;
+  /* Fondo beige */
+  color: #4b3832;
+}
+
+.btn-primary {
+  background-color: #8c5a48;
+  /* Marrón cálido */
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #a68a64;
+  /* Marrón arena */
+}
+
+footer {
+  background-color: #4b3832;
+  /* Marrón oscuro */
+  color: #f5f5dc;
+}
+
+footer a {
+  color: #d9c4b1;
+}
+
+/* Ajuste de altura para imágenes en tarjetas */
+.fixed-image {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
